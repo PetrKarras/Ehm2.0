@@ -1,0 +1,16 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\bin\Debug\netcoreapp3.1\Opakovač.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Opakovač\Opakovač\obj\Debug\netcoreapp3.1\Opakovač.genruntimeconfig.cache

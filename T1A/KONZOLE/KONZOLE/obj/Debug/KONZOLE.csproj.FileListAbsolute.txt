@@ -1,0 +1,6 @@
+P:\PGM\KONZOLE\KONZOLE\bin\Debug\KONZOLE.exe.config
+P:\PGM\KONZOLE\KONZOLE\bin\Debug\KONZOLE.exe
+P:\PGM\KONZOLE\KONZOLE\bin\Debug\KONZOLE.pdb
+P:\PGM\KONZOLE\KONZOLE\obj\Debug\KONZOLE.csprojResolveAssemblyReference.cache
+P:\PGM\KONZOLE\KONZOLE\obj\Debug\KONZOLE.exe
+P:\PGM\KONZOLE\KONZOLE\obj\Debug\KONZOLE.pdb

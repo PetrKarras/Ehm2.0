@@ -1,0 +1,16 @@
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.exe
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.deps.json
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.runtimeconfig.json
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.runtimeconfig.dev.json
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.dll
+C:\Users\LYNX\source\repos\Kladkostroj\bin\Debug\netcoreapp3.1\Kladkostroj.pdb
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.csproj.AssemblyReference.cache
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.Form1.resources
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.csproj.GenerateResource.cache
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.AssemblyInfoInputs.cache
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.AssemblyInfo.cs
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.dll
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.pdb
+C:\Users\LYNX\source\repos\Kladkostroj\obj\Debug\netcoreapp3.1\Kladkostroj.genruntimeconfig.cache

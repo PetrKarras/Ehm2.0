@@ -1,0 +1,13 @@
+P:\PGM\Piramyda\Piramyda\bin\Debug\Piramyda.exe.config
+P:\PGM\Piramyda\Piramyda\obj\Debug\Piramyda.csprojResolveAssemblyReference.cache
+P:\PGM\Piramyda\Piramyda\bin\Debug\Piramyda.exe
+P:\PGM\Piramyda\Piramyda\bin\Debug\Piramyda.pdb
+P:\PGM\Piramyda\Piramyda\obj\Debug\Piramyda.exe
+P:\PGM\Piramyda\Piramyda\obj\Debug\Piramyda.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\bin\Debug\Piramyda.exe.config
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\bin\Debug\Piramyda.exe
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\bin\Debug\Piramyda.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\obj\Debug\Piramyda.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\obj\Debug\Piramyda.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\obj\Debug\Piramyda.exe
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T1A\Piramyda\Piramyda\obj\Debug\Piramyda.pdb

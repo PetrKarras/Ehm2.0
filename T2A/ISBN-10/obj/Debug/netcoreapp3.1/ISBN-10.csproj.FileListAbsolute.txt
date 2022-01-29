@@ -1,0 +1,48 @@
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.exe
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.deps.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN_10.Form1.resources
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.genruntimeconfig.cache
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.exe
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.deps.json
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.json
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.dev.json
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\LYNX\Desktop\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.AssemblyReference.cache
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN_10.Form1.resources
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.GenerateResource.cache
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfoInputs.cache
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfo.cs
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\LYNX\Desktop\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\bin\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN_10.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ISBN-10\obj\Debug\netcoreapp3.1\ISBN-10.genruntimeconfig.cache

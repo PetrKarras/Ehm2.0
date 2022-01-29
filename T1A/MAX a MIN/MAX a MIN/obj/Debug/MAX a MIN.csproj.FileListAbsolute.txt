@@ -1,0 +1,6 @@
+P:\PGM\MAX a MIN\MAX a MIN\bin\Debug\MAX a MIN.exe.config
+P:\PGM\MAX a MIN\MAX a MIN\bin\Debug\MAX a MIN.exe
+P:\PGM\MAX a MIN\MAX a MIN\bin\Debug\MAX a MIN.pdb
+P:\PGM\MAX a MIN\MAX a MIN\obj\Debug\MAX a MIN.csprojResolveAssemblyReference.cache
+P:\PGM\MAX a MIN\MAX a MIN\obj\Debug\MAX a MIN.exe
+P:\PGM\MAX a MIN\MAX a MIN\obj\Debug\MAX a MIN.pdb

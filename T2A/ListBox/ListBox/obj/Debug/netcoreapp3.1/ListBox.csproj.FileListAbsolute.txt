@@ -1,0 +1,32 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.exe
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.deps.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\bin\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.Form1.resources
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.dll
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.pdb
+C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\ListBox\ListBox\obj\Debug\netcoreapp3.1\ListBox.genruntimeconfig.cache
