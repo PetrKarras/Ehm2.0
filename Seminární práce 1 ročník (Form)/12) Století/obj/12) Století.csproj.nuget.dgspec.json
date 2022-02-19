@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj": {}
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj": {
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj",
+        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj",
         "projectName": "12) Století",
-        "projectPath": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj",
+        "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\12) Století.csproj",
         "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\obj\\",
+        "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\12) Století\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

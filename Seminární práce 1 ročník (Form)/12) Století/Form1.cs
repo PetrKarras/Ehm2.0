@@ -14,7 +14,7 @@ namespace _12__Století
         private void Butt_Click(object sender, EventArgs e)
         {
             string[] celeDatum = Txtbox.Text.Split(".", 3);
-            LblOut.Text = $"Pro datum {Txtbox.Text} platí: {UrceniData(celeDatum)} ";
+            LblOut.Text = $"O {Txtbox.Text} platí:{Environment.NewLine}{UrceniData(celeDatum)} ";
         }
         public string UrceniData(string[] datum)
         {
@@ -74,9 +74,13 @@ namespace _12__Století
                 {
                     obdobi = "Novověk";
                 }
-                else if (rokFloat <= dnesek)
+                else if (rokFloat < dnesek)
                 {
                     obdobi = "Doba moderní";
+                }
+                else if (rokFloat == dnesek)
+                {
+                    obdobi = "Letošek";
                 }
                 else
                 {
@@ -87,19 +91,19 @@ namespace _12__Století
             {
                 obdobi = "Starověk";
             }
-            ///Zjisteni dne v tydnu
+            ///Zjisteni dne v týdnu
             DateTime date = new DateTime(rokInt, mesic, den);
-            return $"{stoletiString.Remove(2,3)},{obdobi},{DenVTýdnu(date)}";
+            return $"{stoletiString.Remove(2,3)},{Environment.NewLine}{obdobi},{Environment.NewLine}{DenVTýdnu(date)}";
         }
         public string DenVTýdnu(DateTime date)
         {
             int datel = (int)date.DayOfWeek;
             if (datel == 0) { return "Neděle"; }
-            else if (datel == 0) { return "Pondělí"; }
-            else if (datel == 0) { return "Úterý"; }
-            else if (datel == 0) { return "Středa"; }
-            else if (datel == 0) { return "Čtvrek"; }
-            else if (datel == 0) { return "Pátek"; }
+            else if (datel == 1) { return "Pondělí"; }
+            else if (datel == 2) { return "Úterý"; }
+            else if (datel == 3) { return "Středa"; }
+            else if (datel == 4) { return "Čtvrek"; }
+            else if (datel == 5) { return "Pátek"; }
             else { return "Sobota"; }
         }
     }

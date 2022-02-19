@@ -14,3 +14,19 @@ C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škol
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.dll
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.pdb
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\bin\Debug\netcoreapp3.1\12) Století.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\_12__Století.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\12) Století\obj\Debug\netcoreapp3.1\12) Století.genruntimeconfig.cache
