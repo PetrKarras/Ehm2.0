@@ -20,38 +20,33 @@ namespace Opakovač
         private void Butt_Click(object sender, EventArgs e)
         {
             LblOut.Text = "";
-            int a = int.Parse(TxtBoxNum.Text);
+            int a = Convert.ToInt32(NumUpDown.Value);
             for (int i = 0; i < a; i++)
             {
                 if (i % 2 == 0)
                 {
                     if (i + 1 == a)
                     {
-                        LblOut.Text += $"{TxtBoxWord.Text}.\n";
+                        TxtBoxOut.Text += $"{i + 1}){TxtBoxWord.Text}.{Environment.NewLine}";
                     }
                     else
                     {
-                        LblOut.Text += $"{TxtBoxWord.Text},\n";
+                        TxtBoxOut.Text += $"{i + 1}){TxtBoxWord.Text},{Environment.NewLine}";
                     }
                 }
                 else
                 {
                     if (i + 1 == a)
                     {
-                        LblOut.Text += $"#{TxtBoxWord.Text}.\n";
+                        TxtBoxOut.Text += $"{i+1}){TxtBoxWord.Text}.{Environment.NewLine}";
                     }
                     else
                     {
-                        LblOut.Text += $"#{TxtBoxWord.Text},\n";
+                        TxtBoxOut.Text += $"{i + 1}){TxtBoxWord.Text},{Environment.NewLine}";
                     }
                 }
 
             }
-            /* for (int i = 0; i < a-1; i++)
-            {
-                LblOut.Text += $"{TxtBoxWord.Text},\n";
-            }
-            LblOut.Text += $"{TxtBoxWord.Text}.\n";*/
         }
     }
 }

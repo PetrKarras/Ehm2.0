@@ -1,0 +1,17 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\bin\Debug\net6.0-windows\Agroevidence.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\bin\Debug\net6.0-windows\Agroevidence.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\bin\Debug\net6.0-windows\Agroevidence.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\bin\Debug\net6.0-windows\Agroevidence.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\bin\Debug\net6.0-windows\Agroevidence.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\refint\Agroevidence.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\Agroevidence.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Agroevidence\Agroevidence\obj\Debug\net6.0-windows\ref\Agroevidence.dll

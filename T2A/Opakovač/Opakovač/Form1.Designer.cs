@@ -29,21 +29,15 @@ namespace Opakovač
         /// </summary>
         private void InitializeComponent()
         {
-            this.LblOut = new System.Windows.Forms.Label();
             this.TxtBoxWord = new System.Windows.Forms.TextBox();
-            this.TxtBoxNum = new System.Windows.Forms.TextBox();
             this.Butt = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.NumUpDown = new System.Windows.Forms.NumericUpDown();
+            this.TxtBoxOut = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUpDown)).BeginInit();
             this.SuspendLayout();
-            // 
-            // LblOut
-            // 
-            this.LblOut.Location = new System.Drawing.Point(325, 265);
-            this.LblOut.Name = "LblOut";
-            this.LblOut.Size = new System.Drawing.Size(100, 130);
-            this.LblOut.TabIndex = 0;
             // 
             // TxtBoxWord
             // 
@@ -51,13 +45,6 @@ namespace Opakovač
             this.TxtBoxWord.Name = "TxtBoxWord";
             this.TxtBoxWord.Size = new System.Drawing.Size(100, 23);
             this.TxtBoxWord.TabIndex = 1;
-            // 
-            // TxtBoxNum
-            // 
-            this.TxtBoxNum.Location = new System.Drawing.Point(325, 160);
-            this.TxtBoxNum.Name = "TxtBoxNum";
-            this.TxtBoxNum.Size = new System.Drawing.Size(100, 23);
-            this.TxtBoxNum.TabIndex = 2;
             // 
             // Butt
             // 
@@ -97,34 +84,51 @@ namespace Opakovač
             this.label3.TabIndex = 6;
             this.label3.Text = "Opakovač";
             // 
+            // NumUpDown
+            // 
+            this.NumUpDown.Location = new System.Drawing.Point(325, 160);
+            this.NumUpDown.Name = "NumUpDown";
+            this.NumUpDown.Size = new System.Drawing.Size(100, 23);
+            this.NumUpDown.TabIndex = 7;
+            // 
+            // TxtBoxOut
+            // 
+            this.TxtBoxOut.Location = new System.Drawing.Point(333, 259);
+            this.TxtBoxOut.Multiline = true;
+            this.TxtBoxOut.Name = "TxtBoxOut";
+            this.TxtBoxOut.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.TxtBoxOut.Size = new System.Drawing.Size(100, 179);
+            this.TxtBoxOut.TabIndex = 8;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.TxtBoxOut);
+            this.Controls.Add(this.NumUpDown);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Butt);
-            this.Controls.Add(this.TxtBoxNum);
             this.Controls.Add(this.TxtBoxWord);
-            this.Controls.Add(this.LblOut);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.NumUpDown)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label LblOut;
         private System.Windows.Forms.TextBox TxtBoxWord;
-        private System.Windows.Forms.TextBox TxtBoxNum;
         private System.Windows.Forms.Button Butt;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.NumericUpDown NumUpDown;
+        private System.Windows.Forms.TextBox TxtBoxOut;
     }
 }
 

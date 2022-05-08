@@ -47,7 +47,7 @@ namespace ListBox
             }
             else
             {
-                MessageBox.Show("číslo už tam je");
+                MessageBox.Show("Slovo už tam je");
             }
         }
         //Faze 3

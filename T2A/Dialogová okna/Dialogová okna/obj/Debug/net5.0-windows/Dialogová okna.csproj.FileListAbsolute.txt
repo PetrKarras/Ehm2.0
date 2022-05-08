@@ -1,0 +1,18 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\ref\Dialogová okna.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\bin\Debug\net5.0-windows\Dialogová okna.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová_okna.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\ref\Dialogová okna.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Dialogová okna\Dialogová okna\obj\Debug\net5.0-windows\Dialogová okna.genruntimeconfig.cache

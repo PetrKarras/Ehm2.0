@@ -1,0 +1,168 @@
+﻿++Řešení Vstupenka ‎(1 z 1 projektů)
+i:{00000000-0000-0000-0000-000000000000}:Vstupenka.sln
+++Vstupenka
+i:{00000000-0000-0000-0000-000000000000}:Vstupenka
+++Závislosti
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:>94
+++Analyzátory
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:analyzátory
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Architektury
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:architektury
+++Microsoft.NETCore.App
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\microsoft.windowsdesktop.app.windowsforms
+++Form1.cs
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\form1.cs
+++Form1.Designer.cs
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\form1.designer.cs
+++Form1.resx
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\form1.resx
+++Program.cs
+i:{56868dd9-ac45-4f3b-abbf-40ed41b2536d}:c:\users\lynx\onedrive - spš, soš a sou, hradec králové\pgm\t2a\vstupenka\vstupenka\program.cs
+++bin
+++Debug
+++net6.0-windows
+++Vstupenka.deps.json
+++Vstupenka.dll
+++Vstupenka.exe
+++Vstupenka.pdb
+++Vstupenka.runtimeconfig.json
+++obj
+++project.assets.json
+++project.nuget.cache
+++Vstupenka.csproj.nuget.dgspec.json
+++Vstupenka.csproj.nuget.g.props
+++Vstupenka.csproj.nuget.g.targets
+++ref
+++refint
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+++Vstupenka.AssemblyInfo.cs
+++Vstupenka.AssemblyInfoInputs.cache
+++Vstupenka.assets.cache
+++Vstupenka.csproj.AssemblyReference.cache
+++Vstupenka.csproj.BuildWithSkipAnalyzers
+++Vstupenka.csproj.CoreCompileInputs.cache
+++Vstupenka.csproj.FileListAbsolute.txt
+++Vstupenka.csproj.GenerateResource.cache
+++Vstupenka.designer.deps.json
+++Vstupenka.designer.runtimeconfig.json
+++Vstupenka.Form1.resources
+++Vstupenka.GeneratedMSBuildEditorConfig.editorconfig
+++Vstupenka.genruntimeconfig.cache
+++Vstupenka.GlobalUsings.g.cs
+++Importy
+++Sdk.props
+++Sdk.targets
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Windows.targets
+++Microsoft.NET.Sdk.WindowsDesktop.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.targets
+++Microsoft.WinFX.targets
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Vstupenka.csproj.user
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++NewFolder1
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++Bez názvu.png
+++Bitmap1.bmp
+i:{efb1520f-327a-41ba-9fbf-e991ddc13052}:C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Vstupenka\Bitmap1.bmp

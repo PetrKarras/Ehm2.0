@@ -1,0 +1,32 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double_kick.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double_kick.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\bin\Debug\netcoreapp3.1\Double kick.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Double kick\Double kick\obj\Debug\netcoreapp3.1\Double kick.genruntimeconfig.cache
