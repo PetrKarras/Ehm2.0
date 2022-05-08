@@ -1,4 +1,5 @@
 ## Petr Karras
-# Ehm
+# Ehm 2.0
 Jméno repositáře vyjadřuje moji flustraci při tom co jsem to zakládal
-# Ehm2.0
+
+R.I.P. Ehm
