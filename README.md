@@ -1,2 +1,2 @@
 ### Petr Karras
-# ty kokos už nikdy více
+ ty kokos už nikdy více
