@@ -1,0 +1,17 @@
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\bin\Debug\net6.0-windows\Nákupní košík.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\bin\Debug\net6.0-windows\Nákupní košík.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\bin\Debug\net6.0-windows\Nákupní košík.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\bin\Debug\net6.0-windows\Nákupní košík.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\bin\Debug\net6.0-windows\Nákupní košík.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní_košík.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\refint\Nákupní košík.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\Nákupní košík.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Nákupní košík\Nákupní košík\obj\Debug\net6.0-windows\ref\Nákupní košík.dll

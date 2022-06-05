@@ -18,12 +18,12 @@ namespace Nákupní_košík
             string nazev = n;
         }
     }
-    class Potravina : Zbozi
+ /*   class Potravina : Zbozi
     {
         string typ { get; set; }
         public Potravina(string sklad)
         {
-
+    
         }
     }
     class Drogerie : Zbozi
@@ -33,5 +33,5 @@ namespace Nákupní_košík
         {
 
         }
-    }
+    }*/
 }

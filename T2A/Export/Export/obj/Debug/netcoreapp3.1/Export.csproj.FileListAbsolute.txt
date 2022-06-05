@@ -30,3 +30,19 @@ C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škol
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.dll
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.pdb
 C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\bin\Debug\netcoreapp3.1\Export.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\obj\Debug\netcoreapp3.1\Export.genruntimeconfig.cache

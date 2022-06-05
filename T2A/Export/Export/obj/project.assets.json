@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\LYNX\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\LYNX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
+      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
       "projectName": "Export",
-      "projectPath": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
+      "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
       "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LYNX\\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\\PGM\\T2A\\Export\\Export\\obj\\",
+      "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Export\\Export\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -68,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

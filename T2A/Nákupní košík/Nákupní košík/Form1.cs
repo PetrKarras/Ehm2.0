@@ -9,7 +9,7 @@ namespace Nákupní_košík
 
         private void ButtAdd_Click(object sender, EventArgs e)
         {
-            Zbozi = new Zbozi(TxtBoxCena.Text,CBoxTyp.Text,CBoxTyp.Text);
+            Zbozi zbozi = new Zbozi(Convert.ToInt32(TxtBoxCena.Text),CBoxTyp.Text,CBoxTyp.Text);
         }
 
 

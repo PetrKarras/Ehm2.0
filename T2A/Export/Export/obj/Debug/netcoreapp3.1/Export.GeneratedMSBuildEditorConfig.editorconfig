@@ -1,3 +1,9 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = Export
-build_property.ProjectDir = C:\Users\LYNX\OneDrive - Střední průmyslová škola, Střední odborná škola a Střední odborné učiliště, Hradec Králové\PGM\T2A\Export\Export\
+build_property.ProjectDir = C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T2A\Export\Export\
