@@ -44,7 +44,10 @@
             // 
             // PicBoxGame
             // 
-            this.PicBoxGame.Location = new System.Drawing.Point(125, 12);
+            this.PicBoxGame.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxGame.BackgroundImage = global::Arcade.Properties.Resources.Button;
+            this.PicBoxGame.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxGame.Location = new System.Drawing.Point(804, 350);
             this.PicBoxGame.Name = "PicBoxGame";
             this.PicBoxGame.Size = new System.Drawing.Size(239, 50);
             this.PicBoxGame.TabIndex = 0;
@@ -54,7 +57,10 @@
             // 
             // PicBoxRight
             // 
-            this.PicBoxRight.Location = new System.Drawing.Point(393, 12);
+            this.PicBoxRight.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxRight.BackgroundImage = global::Arcade.Properties.Resources.ArrowR;
+            this.PicBoxRight.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxRight.Location = new System.Drawing.Point(744, 193);
             this.PicBoxRight.Name = "PicBoxRight";
             this.PicBoxRight.Size = new System.Drawing.Size(40, 50);
             this.PicBoxRight.TabIndex = 1;
@@ -63,7 +69,10 @@
             // 
             // PicBoxLeft
             // 
-            this.PicBoxLeft.Location = new System.Drawing.Point(79, 12);
+            this.PicBoxLeft.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxLeft.BackgroundImage = global::Arcade.Properties.Resources.ArrowL;
+            this.PicBoxLeft.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxLeft.Location = new System.Drawing.Point(730, 281);
             this.PicBoxLeft.Name = "PicBoxLeft";
             this.PicBoxLeft.Size = new System.Drawing.Size(40, 50);
             this.PicBoxLeft.TabIndex = 2;
@@ -72,7 +81,10 @@
             // 
             // PicBoxInfo
             // 
-            this.PicBoxInfo.Location = new System.Drawing.Point(12, 12);
+            this.PicBoxInfo.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxInfo.BackgroundImage = global::Arcade.Properties.Resources.Info;
+            this.PicBoxInfo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxInfo.Location = new System.Drawing.Point(744, 350);
             this.PicBoxInfo.Name = "PicBoxInfo";
             this.PicBoxInfo.Size = new System.Drawing.Size(47, 48);
             this.PicBoxInfo.TabIndex = 3;
@@ -80,7 +92,10 @@
             // 
             // PicBoxLeaderboard
             // 
-            this.PicBoxLeaderboard.Location = new System.Drawing.Point(457, 12);
+            this.PicBoxLeaderboard.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxLeaderboard.BackgroundImage = global::Arcade.Properties.Resources.Button;
+            this.PicBoxLeaderboard.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxLeaderboard.Location = new System.Drawing.Point(804, 279);
             this.PicBoxLeaderboard.Name = "PicBoxLeaderboard";
             this.PicBoxLeaderboard.Size = new System.Drawing.Size(239, 50);
             this.PicBoxLeaderboard.TabIndex = 4;
@@ -90,7 +105,10 @@
             // 
             // PicBoxEnd
             // 
-            this.PicBoxEnd.Location = new System.Drawing.Point(714, 12);
+            this.PicBoxEnd.BackColor = System.Drawing.Color.Transparent;
+            this.PicBoxEnd.BackgroundImage = global::Arcade.Properties.Resources.Button;
+            this.PicBoxEnd.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.PicBoxEnd.Location = new System.Drawing.Point(804, 195);
             this.PicBoxEnd.Name = "PicBoxEnd";
             this.PicBoxEnd.Size = new System.Drawing.Size(239, 50);
             this.PicBoxEnd.TabIndex = 5;

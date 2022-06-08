@@ -6,7 +6,8 @@ namespace Arcade
         {
             InitializeComponent();
         }
-        public string[] gameList = new string[] { "Flapy ostrich", "Picky-man", "Zac the jumper" };
+
+        public string[] gameList = new string[] { "Flapy ME", "Jumping ME" };
         public int gameListIndex = 0;
         public string hrac = "";
         private void Form1_Load(object sender, EventArgs e)
@@ -44,43 +45,32 @@ true);
                 switch (gameListIndex)
                 {
                     case 0:
-                        FlappyOstrich();
+                        FlappyME();
                         break;
                     case 1:
-                        PickyMan();
-                        break;
-                    case 2:
-                        ZacTheJumper();
+                        PickyME();
                         break;
                 }
             }
 
         }
+
+
+        //HRY
+        private static void FlappyME()
+        {
+            Form FlappyMeForm = new FlappyME();
+            FlappyMeForm.Show();
+        }
+        private void PickyME()
+        {
+            this.Hide();
+        }
+
+
         // Metoda pro Úpravu UI
         private void UpravaUI()
         {
-            // WindowState Maximized
-            // FormBorderStyle None
-            // BackgroundLayout Stretch
-            Image button = Properties.Resources.Button;
-            Image arrowR = Properties.Resources.ArrowR;
-            Image arrowL = Properties.Resources.ArrowL;
-            Image info = Properties.Resources.Info;
-
-            PicBoxRight.Image = arrowR;
-            PicBoxLeft.Image = arrowL;
-            PicBoxEnd.Image = button;
-            PicBoxGame.Image = button;
-            PicBoxLeaderboard.Image = button;
-            PicBoxInfo.Image = info;
-
-            PicBoxRight.SizeMode = PictureBoxSizeMode.StretchImage;
-            PicBoxLeft.SizeMode = PictureBoxSizeMode.StretchImage;
-            PicBoxEnd.SizeMode = PictureBoxSizeMode.StretchImage;
-            PicBoxGame.SizeMode = PictureBoxSizeMode.StretchImage;
-            PicBoxLeaderboard.SizeMode = PictureBoxSizeMode.StretchImage;
-            PicBoxInfo.SizeMode = PictureBoxSizeMode.StretchImage;
-
             PicBoxRight.Size = new Size(150, 150);
             PicBoxLeft.Size = new Size(150, 150);
             PicBoxGame.Size = new Size(300, 150);
@@ -94,23 +84,11 @@ true);
             PicBoxLeaderboard.Location = new Point(800, 500);
             PicBoxEnd.Location = new Point(800, 700);
             PicBoxInfo.Location = new Point(1760, 955);
-
-            PicBoxRight.BackColor = Color.Transparent;
-            PicBoxLeft.BackColor = Color.Transparent;
-            PicBoxGame.BackColor = Color.Transparent;
-            PicBoxLeaderboard.BackColor = Color.Transparent;
-            PicBoxEnd.BackColor = Color.Transparent;
-            PicBoxInfo.BackColor = Color.Transparent;
-
         }
         // Metoda pro jméno hráèe
         private void JmenoHrace()
         {
-            hrac = Microsoft.VisualBasic.Interaction.InputBox("Vyber si jméno",
-"Jméno hráèe",
-"",
-500,
-500);
+            hrac = Microsoft.VisualBasic.Interaction.InputBox("Vyber si jméno", "Jméno hráèe", "", 500, 500);
         }
         // Text v Pictureboxech
         public Font customFont = new("Haettenschweiler", 50);
@@ -135,9 +113,9 @@ true);
             switch (gameListIndex)
             {
                 case < 0:
-                    gameListIndex = 2;
+                    gameListIndex = 1;
                     break;
-                case > 2:
+                case > 1:
                     gameListIndex = 0;
                     break;
             }
@@ -150,32 +128,13 @@ true);
             switch (gameListIndex)
             {
                 case < 0:
-                    gameListIndex = 2;
+                    gameListIndex = 1;
                     break;
-                case > 2:
+                case > 1:
                     gameListIndex = 0;
                     break;
             }
             PicBoxGame.Refresh();
-        }
-
-        private Games FlappyOstrich()
-        {
-            int score = 0;
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
-            return new Games(hrac, gameList[gameListIndex], score);
-        }
-        private Games PickyMan()
-        {
-            int score = 0;
-            return new Games(hrac, gameList[gameListIndex], score);
-        }
-        private Games ZacTheJumper()
-        {
-            int score = 0;
-            return new Games(hrac, gameList[gameListIndex], score);
         }
     }
 }

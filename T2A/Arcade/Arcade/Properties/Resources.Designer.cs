@@ -103,6 +103,36 @@ namespace Arcade.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Flappy_ostrich {
+            get {
+                object obj = ResourceManager.GetObject("Flappy ostrich", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Flappy_ostrich1 {
+            get {
+                object obj = ResourceManager.GetObject("Flappy ostrich1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Flappy_ostrich2 {
+            get {
+                object obj = ResourceManager.GetObject("Flappy ostrich2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Info {
             get {
                 object obj = ResourceManager.GetObject("Info", resourceCulture);
@@ -113,9 +143,9 @@ namespace Arcade.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Load {
+        internal static System.Drawing.Bitmap pim_alink_pixel_art_assets_2_removebg_preview {
             get {
-                object obj = ResourceManager.GetObject("Load", resourceCulture);
+                object obj = ResourceManager.GetObject("pim-alink-pixel-art-assets-2-removebg-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
