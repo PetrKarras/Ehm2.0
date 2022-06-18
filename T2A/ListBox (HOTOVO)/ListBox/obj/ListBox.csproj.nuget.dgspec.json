@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox\\ListBox\\ListBox.csproj": {}
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox (HOTOVO)\\ListBox\\ListBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox\\ListBox\\ListBox.csproj": {
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox (HOTOVO)\\ListBox\\ListBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox\\ListBox\\ListBox.csproj",
+        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox (HOTOVO)\\ListBox\\ListBox.csproj",
         "projectName": "ListBox",
-        "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox\\ListBox\\ListBox.csproj",
+        "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox (HOTOVO)\\ListBox\\ListBox.csproj",
         "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox\\ListBox\\obj\\",
+        "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\ListBox (HOTOVO)\\ListBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
