@@ -1,0 +1,17 @@
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\bin\Debug\net6.0-windows\Podobnost trojúhelníku.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\bin\Debug\net6.0-windows\Podobnost trojúhelníku.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\bin\Debug\net6.0-windows\Podobnost trojúhelníku.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\bin\Debug\net6.0-windows\Podobnost trojúhelníku.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\bin\Debug\net6.0-windows\Podobnost trojúhelníku.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost_trojúhelníku.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\refint\Podobnost trojúhelníku.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\Podobnost trojúhelníku.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\6) Podobnost trojúhelníku\Podobnost trojúhelníku\obj\Debug\net6.0-windows\ref\Podobnost trojúhelníku.dll

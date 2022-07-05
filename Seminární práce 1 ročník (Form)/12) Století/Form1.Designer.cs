@@ -42,7 +42,7 @@ namespace _12__Století
             // RadButtPr
             // 
             this.RadButtPr.AutoSize = true;
-            this.RadButtPr.Location = new System.Drawing.Point(521, 158);
+            this.RadButtPr.Location = new System.Drawing.Point(243, 124);
             this.RadButtPr.Name = "RadButtPr";
             this.RadButtPr.Size = new System.Drawing.Size(64, 19);
             this.RadButtPr.TabIndex = 0;
@@ -53,7 +53,7 @@ namespace _12__Století
             // RadbuttNl
             // 
             this.RadbuttNl.AutoSize = true;
-            this.RadbuttNl.Location = new System.Drawing.Point(521, 133);
+            this.RadbuttNl.Location = new System.Drawing.Point(243, 99);
             this.RadbuttNl.Name = "RadbuttNl";
             this.RadbuttNl.Size = new System.Drawing.Size(50, 19);
             this.RadbuttNl.TabIndex = 1;
@@ -63,7 +63,7 @@ namespace _12__Století
             // 
             // Txtbox
             // 
-            this.Txtbox.Location = new System.Drawing.Point(363, 133);
+            this.Txtbox.Location = new System.Drawing.Point(85, 99);
             this.Txtbox.Multiline = true;
             this.Txtbox.Name = "Txtbox";
             this.Txtbox.Size = new System.Drawing.Size(100, 19);
@@ -74,7 +74,7 @@ namespace _12__Století
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Impact", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(348, 43);
+            this.label1.Location = new System.Drawing.Point(70, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(140, 26);
             this.label1.TabIndex = 3;
@@ -84,7 +84,7 @@ namespace _12__Století
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Impact", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(304, 133);
+            this.label2.Location = new System.Drawing.Point(26, 99);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 19);
             this.label2.TabIndex = 4;
@@ -94,14 +94,14 @@ namespace _12__Století
             // 
             this.LblOut.AutoSize = true;
             this.LblOut.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.LblOut.Location = new System.Drawing.Point(363, 251);
+            this.LblOut.Location = new System.Drawing.Point(85, 217);
             this.LblOut.Name = "LblOut";
             this.LblOut.Size = new System.Drawing.Size(2, 17);
             this.LblOut.TabIndex = 5;
             // 
             // Butt
             // 
-            this.Butt.Location = new System.Drawing.Point(363, 171);
+            this.Butt.Location = new System.Drawing.Point(85, 137);
             this.Butt.Name = "Butt";
             this.Butt.Size = new System.Drawing.Size(100, 63);
             this.Butt.TabIndex = 6;
@@ -113,7 +113,7 @@ namespace _12__Století
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Impact", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(366, 97);
+            this.label3.Location = new System.Drawing.Point(88, 63);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(97, 19);
             this.label3.TabIndex = 7;
@@ -123,7 +123,7 @@ namespace _12__Století
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(323, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.Butt);
             this.Controls.Add(this.LblOut);

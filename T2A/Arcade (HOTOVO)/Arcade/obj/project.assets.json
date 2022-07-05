@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LYNX\\Desktop\\Arcade\\Arcade\\Arcade.csproj",
+      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
       "projectName": "Arcade",
-      "projectPath": "C:\\Users\\LYNX\\Desktop\\Arcade\\Arcade\\Arcade.csproj",
+      "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
       "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LYNX\\Desktop\\Arcade\\Arcade\\obj\\",
+      "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
