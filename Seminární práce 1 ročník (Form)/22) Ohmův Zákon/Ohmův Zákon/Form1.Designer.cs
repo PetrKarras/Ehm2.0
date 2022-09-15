@@ -36,9 +36,12 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.TxtBoxU = new System.Windows.Forms.TextBox();
-            this.TxtBoxI = new System.Windows.Forms.TextBox();
-            this.TxtBoxR = new System.Windows.Forms.TextBox();
+            this.NumUDU = new System.Windows.Forms.NumericUpDown();
+            this.NumUDI = new System.Windows.Forms.NumericUpDown();
+            this.NumUDR = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDU)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDI)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDR)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -121,35 +124,38 @@
             this.label7.TabIndex = 8;
             this.label7.Text = "V";
             // 
-            // TxtBoxU
+            // NumUDU
             // 
-            this.TxtBoxU.Location = new System.Drawing.Point(99, 86);
-            this.TxtBoxU.Name = "TxtBoxU";
-            this.TxtBoxU.Size = new System.Drawing.Size(154, 23);
-            this.TxtBoxU.TabIndex = 11;
+            this.NumUDU.DecimalPlaces = 3;
+            this.NumUDU.Location = new System.Drawing.Point(100, 87);
+            this.NumUDU.Name = "NumUDU";
+            this.NumUDU.Size = new System.Drawing.Size(133, 23);
+            this.NumUDU.TabIndex = 14;
             // 
-            // TxtBoxI
+            // NumUDI
             // 
-            this.TxtBoxI.Location = new System.Drawing.Point(97, 121);
-            this.TxtBoxI.Name = "TxtBoxI";
-            this.TxtBoxI.Size = new System.Drawing.Size(154, 23);
-            this.TxtBoxI.TabIndex = 12;
+            this.NumUDI.DecimalPlaces = 3;
+            this.NumUDI.Location = new System.Drawing.Point(100, 122);
+            this.NumUDI.Name = "NumUDI";
+            this.NumUDI.Size = new System.Drawing.Size(133, 23);
+            this.NumUDI.TabIndex = 15;
             // 
-            // TxtBoxR
+            // NumUDR
             // 
-            this.TxtBoxR.Location = new System.Drawing.Point(97, 156);
-            this.TxtBoxR.Name = "TxtBoxR";
-            this.TxtBoxR.Size = new System.Drawing.Size(154, 23);
-            this.TxtBoxR.TabIndex = 13;
+            this.NumUDR.DecimalPlaces = 3;
+            this.NumUDR.Location = new System.Drawing.Point(100, 157);
+            this.NumUDR.Name = "NumUDR";
+            this.NumUDR.Size = new System.Drawing.Size(133, 23);
+            this.NumUDR.TabIndex = 16;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(295, 294);
-            this.Controls.Add(this.TxtBoxR);
-            this.Controls.Add(this.TxtBoxI);
-            this.Controls.Add(this.TxtBoxU);
+            this.Controls.Add(this.NumUDR);
+            this.Controls.Add(this.NumUDI);
+            this.Controls.Add(this.NumUDU);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label7);
@@ -160,6 +166,9 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDU)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDI)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NumUDR)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -175,8 +184,8 @@
         private Label label5;
         private Label label6;
         private Label label7;
-        private TextBox TxtBoxU;
-        private TextBox TxtBoxI;
-        private TextBox TxtBoxR;
+        private NumericUpDown NumUDU;
+        private NumericUpDown NumUDI;
+        private NumericUpDown NumUDR;
     }
 }

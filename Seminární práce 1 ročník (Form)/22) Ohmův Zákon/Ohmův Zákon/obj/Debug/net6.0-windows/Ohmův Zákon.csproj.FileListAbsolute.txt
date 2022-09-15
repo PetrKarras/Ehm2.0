@@ -15,3 +15,20 @@ C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární prá
 C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.pdb
 C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.genruntimeconfig.cache
 C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\ref\Ohmův Zákon.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\bin\Debug\net6.0-windows\Ohmův Zákon.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\bin\Debug\net6.0-windows\Ohmův Zákon.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\bin\Debug\net6.0-windows\Ohmův Zákon.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\bin\Debug\net6.0-windows\Ohmův Zákon.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\bin\Debug\net6.0-windows\Ohmův Zákon.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův_Zákon.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\refint\Ohmův Zákon.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\Ohmův Zákon.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\22) Ohmův Zákon\Ohmův Zákon\obj\Debug\net6.0-windows\ref\Ohmův Zákon.dll

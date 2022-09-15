@@ -9,27 +9,28 @@ namespace Ohmův_Zákon
 
         private void Button_Click(object sender, EventArgs e)
         {
-            foreach(Control x in this.Controls)
+           foreach(Control x in this.Controls)
             {
-                if(x is TextBox && x.Text == "")
+                if(x is NumericUpDown && x.Text == "")
                 {
                     x.Text = "0";
                 }
             }
-            double U = Convert.ToDouble(TxtBoxU.Text);
-            double I = Convert.ToDouble(TxtBoxI.Text);
-            double R = Convert.ToDouble(TxtBoxR.Text);
-            if (U == 0)
+
+            if (NumUDU.Value == 0 && NumUDI.Value != 0 && NumUDR.Value != 0)
             {
-                TxtBoxU.Text = $"{I * R}";
+                NumUDU.Value = NumUDI.Value * NumUDR.Value;
+                Button.Text = "U = R * I";
             }
-            else if (I == 0)
+            else if (NumUDI.Value == 0 && NumUDU.Value != 0 && NumUDR.Value != 0)
             {
-                TxtBoxI.Text = $"{U / R}";
+                NumUDI.Value = NumUDU.Value / NumUDR.Value;
+                Button.Text = "I = U / R";
             }
-            else if (R == 0)
+            else if (NumUDR.Value == 0 && NumUDI.Value != 0 && NumUDU.Value != 0)
             {
-                TxtBoxR.Text = $"{U / I}";
+                NumUDR.Value = NumUDU.Value / NumUDI.Value;
+                Button.Text = "R = U / I";
             }
             else
             {

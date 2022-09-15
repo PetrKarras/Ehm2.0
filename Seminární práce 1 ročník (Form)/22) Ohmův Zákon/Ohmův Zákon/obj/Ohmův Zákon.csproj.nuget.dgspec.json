@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj": {}
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\22) Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj": {
+    "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\22) Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj",
+        "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\22) Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj",
         "projectName": "Ohmův Zákon",
-        "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj",
+        "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\22) Ohmův Zákon\\Ohmův Zákon\\Ohmův Zákon.csproj",
         "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\Ohmův Zákon\\Ohmův Zákon\\obj\\",
+        "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\Seminární práce 1 ročník (Form)\\22) Ohmův Zákon\\Ohmův Zákon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",

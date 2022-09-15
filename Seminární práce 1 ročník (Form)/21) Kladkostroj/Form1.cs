@@ -19,7 +19,7 @@ namespace Kladkostroj
 
         private void ButtVyp_Click(object sender, EventArgs e)
         {
-            LblOut.Text = $"Musíme působit silou {int.Parse(TxtBoxVaha.Text) * 10 / Math.Pow(2, Convert.ToInt32(NumVol.Value))} N";
+            LblOut.Text = $"Musíme působit silou {(double)NumUDVaha.Value * 10 / Math.Pow(2, Convert.ToInt32(NumVol.Value))} N";
         }
     }
 }

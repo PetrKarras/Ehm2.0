@@ -1,0 +1,48 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní_pole.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní_pole.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\bin\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní_pole.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Opakovaní pole (HOTOVO)\Opakovaní pole\obj\Debug\netcoreapp3.1\Opakovaní pole.genruntimeconfig.cache

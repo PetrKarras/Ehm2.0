@@ -8,20 +8,28 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LYNX\\.nuget\\packages\\": {}
+    "C:\\Users\\ta2009\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
+      "projectUniqueName": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
       "projectName": "Arcade",
-      "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
-      "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\obj\\",
+      "projectPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\Arcade.csproj",
+      "packagesPath": "C:\\Users\\ta2009\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Arcade (HOTOVO)\\Arcade\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ta2009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows7.0"
@@ -55,15 +63,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
