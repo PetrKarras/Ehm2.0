@@ -1,0 +1,32 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.runtimeconfig.dev.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal_Kombat.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.runtimeconfig.dev.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\bin\Debug\netcoreapp3.1\Mortal Kombat.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal_Kombat.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Mortal Kombat\Mortal Kombat\obj\Debug\netcoreapp3.1\Mortal Kombat.genruntimeconfig.cache
