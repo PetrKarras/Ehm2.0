@@ -1,0 +1,34 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System_IO.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\refint\System IO.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\ref\System IO.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\bin\Debug\net6.0-windows\System IO.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System_IO.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\refint\System IO.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\System IO.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\System IO\System IO\obj\Debug\net6.0-windows\ref\System IO.dll

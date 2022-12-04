@@ -34,5 +34,10 @@ namespace Mortal_Kombat
         {
             return $"{name}: ♥  {hp}";
         }
+        public void RestoreHP()
+        {
+            hp = 100;
+        }
+    
     }
 }

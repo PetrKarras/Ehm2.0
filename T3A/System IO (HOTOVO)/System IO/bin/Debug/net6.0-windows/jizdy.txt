@@ -1,0 +1,11 @@
+datum;øidiè;typ zboží;stroj;spz
+20.10.2022;Pavel Kadavý;-;Avia;6T3 2125
+20.10.2022;Milan Perný;-;Zetor Z5;2S6 5963
+20.10.2022;Milena Hlásná;adexar;Zetor Z5;2SA 1102
+20.10.2022;Zdenìk Turek;øepa;Amazon XX16;1C5 2200
+20.10.2022;Michal Dušek;pšenice zimní;Amazon C36;1E7 2210
+20.10.2022;Vlastimil Jánský;písek;Avia;6T3 2125
+19.10.2022;Michal Dušek;adexar;Zetor Z5;2S6 5963
+19.10.2022;Pavel Kadavý;seno;Amazon XX16;1C5 2200
+19.10.2022;Milena Hlásná;kukuøice;Amazon C36;1E7 2210
+18.10.2022;Pavel Kadavý;kejda;Amazon XX16;1C5 2200

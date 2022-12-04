@@ -1,0 +1,17 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\bin\Debug\net6.0-windows\Investiční účet.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\bin\Debug\net6.0-windows\Investiční účet.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\bin\Debug\net6.0-windows\Investiční účet.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\bin\Debug\net6.0-windows\Investiční účet.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\bin\Debug\net6.0-windows\Investiční účet.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční_účet.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\refint\Investiční účet.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\Investiční účet.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Investiční účet\Investiční účet\obj\Debug\net6.0-windows\ref\Investiční účet.dll

@@ -36,12 +36,15 @@ namespace Mortal_Kombat
             this.TxtBoxPlayer1 = new System.Windows.Forms.TextBox();
             this.TxtBoxPlayer2 = new System.Windows.Forms.TextBox();
             this.ButtChange = new System.Windows.Forms.Button();
+            this.ComBoxPlayer1 = new System.Windows.Forms.ComboBox();
+            this.ComBoxPlayer2 = new System.Windows.Forms.ComboBox();
+            this.ButtNewPlayer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // ButtFight
             // 
             this.ButtFight.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
-            this.ButtFight.Location = new System.Drawing.Point(306, 2);
+            this.ButtFight.Location = new System.Drawing.Point(197, 2);
             this.ButtFight.Name = "ButtFight";
             this.ButtFight.Size = new System.Drawing.Size(156, 44);
             this.ButtFight.TabIndex = 0;
@@ -53,7 +56,7 @@ namespace Mortal_Kombat
             // 
             this.LblPlayer1.AutoSize = true;
             this.LblPlayer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
-            this.LblPlayer1.Location = new System.Drawing.Point(12, 28);
+            this.LblPlayer1.Location = new System.Drawing.Point(12, 59);
             this.LblPlayer1.Name = "LblPlayer1";
             this.LblPlayer1.Size = new System.Drawing.Size(61, 18);
             this.LblPlayer1.TabIndex = 1;
@@ -63,7 +66,7 @@ namespace Mortal_Kombat
             // 
             this.LblPlayer2.AutoSize = true;
             this.LblPlayer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
-            this.LblPlayer2.Location = new System.Drawing.Point(694, 28);
+            this.LblPlayer2.Location = new System.Drawing.Point(642, 59);
             this.LblPlayer2.Name = "LblPlayer2";
             this.LblPlayer2.Size = new System.Drawing.Size(61, 18);
             this.LblPlayer2.TabIndex = 2;
@@ -83,19 +86,17 @@ namespace Mortal_Kombat
             // 
             this.TxtBoxPlayer1.Location = new System.Drawing.Point(12, 2);
             this.TxtBoxPlayer1.Name = "TxtBoxPlayer1";
+            this.TxtBoxPlayer1.PlaceholderText = "Jméno hráče 1";
             this.TxtBoxPlayer1.Size = new System.Drawing.Size(100, 23);
             this.TxtBoxPlayer1.TabIndex = 4;
-            this.TxtBoxPlayer1.Text = "Jméno hráče 1";
-            this.TxtBoxPlayer1.Click += new System.EventHandler(this.TxtBoxPlayer1_Click);
             // 
             // TxtBoxPlayer2
             // 
-            this.TxtBoxPlayer2.Location = new System.Drawing.Point(672, 2);
+            this.TxtBoxPlayer2.Location = new System.Drawing.Point(642, 2);
             this.TxtBoxPlayer2.Name = "TxtBoxPlayer2";
+            this.TxtBoxPlayer2.PlaceholderText = "Jméno Hráče 2";
             this.TxtBoxPlayer2.Size = new System.Drawing.Size(100, 23);
             this.TxtBoxPlayer2.TabIndex = 5;
-            this.TxtBoxPlayer2.Text = "Jméno Hráče 2";
-            this.TxtBoxPlayer2.Click += new System.EventHandler(this.TxtBoxPlayer2_Click);
             // 
             // ButtChange
             // 
@@ -108,11 +109,41 @@ namespace Mortal_Kombat
             this.ButtChange.UseVisualStyleBackColor = true;
             this.ButtChange.Click += new System.EventHandler(this.ButtChange_Click);
             // 
+            // ComBoxPlayer1
+            // 
+            this.ComBoxPlayer1.FormattingEnabled = true;
+            this.ComBoxPlayer1.Location = new System.Drawing.Point(12, 31);
+            this.ComBoxPlayer1.Name = "ComBoxPlayer1";
+            this.ComBoxPlayer1.Size = new System.Drawing.Size(121, 23);
+            this.ComBoxPlayer1.TabIndex = 7;
+            // 
+            // ComBoxPlayer2
+            // 
+            this.ComBoxPlayer2.FormattingEnabled = true;
+            this.ComBoxPlayer2.Location = new System.Drawing.Point(642, 31);
+            this.ComBoxPlayer2.Name = "ComBoxPlayer2";
+            this.ComBoxPlayer2.Size = new System.Drawing.Size(121, 23);
+            this.ComBoxPlayer2.TabIndex = 9;
+            // 
+            // ButtNewPlayer
+            // 
+            this.ButtNewPlayer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
+            this.ButtNewPlayer.Location = new System.Drawing.Point(378, 2);
+            this.ButtNewPlayer.Name = "ButtNewPlayer";
+            this.ButtNewPlayer.Size = new System.Drawing.Size(156, 44);
+            this.ButtNewPlayer.TabIndex = 10;
+            this.ButtNewPlayer.Text = "Nový hráč";
+            this.ButtNewPlayer.UseVisualStyleBackColor = true;
+            this.ButtNewPlayer.Click += new System.EventHandler(this.ButtNewPlayer_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 461);
+            this.Controls.Add(this.ButtNewPlayer);
+            this.Controls.Add(this.ComBoxPlayer2);
+            this.Controls.Add(this.ComBoxPlayer1);
             this.Controls.Add(this.ButtChange);
             this.Controls.Add(this.TxtBoxPlayer2);
             this.Controls.Add(this.TxtBoxPlayer1);
@@ -136,6 +167,9 @@ namespace Mortal_Kombat
         private System.Windows.Forms.TextBox TxtBoxPlayer1;
         private System.Windows.Forms.TextBox TxtBoxPlayer2;
         private System.Windows.Forms.Button ButtChange;
+        private System.Windows.Forms.ComboBox ComBoxPlayer1;
+        private System.Windows.Forms.ComboBox ComBoxPlayer2;
+        private System.Windows.Forms.Button ButtNewPlayer;
     }
 }
 

@@ -28,6 +28,8 @@ namespace Mortal_Kombat
         }
         private void ButtFight_Click(object sender, EventArgs e)
         {
+            p1 = (Player)ComBoxPlayer1.SelectedItem;
+            p2 = (Player)ComBoxPlayer2.SelectedItem;
             if (TxtBoxPlayer1.Text == "" || TxtBoxPlayer2.Text == "")
             {
                 MessageBox.Show("Jméno nemůže být prázdné", "Error 001");
@@ -36,13 +38,12 @@ namespace Mortal_Kombat
             //Grafická změno objevení labelů,zmizení textboxů
             ChangeGUI(1);
 
-            //AttackMax,AttackMin,Deff,Name
-            p1 = new Player(10, 5, 6, TxtBoxPlayer1.Text);
-            p2 = new Player(10, 5, 6, TxtBoxPlayer2.Text);
-
             // Grafická zápis
             LblPlayer1.Text = p1.ToString();
             LblPlayer2.Text = p2.ToString();
+
+            p1.RestoreHP();
+            p2.RestoreHP();
 
             string log = "";
 
@@ -97,41 +98,43 @@ namespace Mortal_Kombat
         }
         private void ChangeGUI(int tmp)
         {
-            if (tmp == 0)
+            switch (tmp)
             {
-                TxtBoxPlayer1.Visible = true;
-                TxtBoxPlayer2.Visible = true;
-                LblPlayer1.Visible = false;
-                LblPlayer2.Visible = false;
-                ButtChange.Visible = true;
+                case 0:
+                    TxtBoxPlayer1.Visible = true;
+                    TxtBoxPlayer2.Visible = true;
+                    LblPlayer1.Visible = false;
+                    LblPlayer2.Visible = false;
+                    ButtChange.Visible = true;
+                    break;
+                case 1:
+                    TxtBoxPlayer1.Visible = false;
+                    TxtBoxPlayer2.Visible = false;
+                    LblPlayer1.Visible = true;
+                    LblPlayer2.Visible = true;
+                    ButtChange.Visible = false;
+                    break;
+                case 2:
+                    TxtBoxPlayer1.Visible = false;
+                    TxtBoxPlayer2.Visible = false;
+                    LblPlayer1.Visible = true;
+                    LblPlayer2.Visible = true;
+                    ButtChange.Visible = true;
+                    break;
             }
-            else if (tmp == 1)
-            {
-                TxtBoxPlayer1.Visible = false;
-                TxtBoxPlayer2.Visible = false;
-                LblPlayer1.Visible = true;
-                LblPlayer2.Visible = true;
-                ButtChange.Visible = false;
-            }
-            else if (tmp == 2)
-            {
-                TxtBoxPlayer1.Visible = false;
-                TxtBoxPlayer2.Visible = false;
-                LblPlayer1.Visible = true;
-                LblPlayer2.Visible = true;
-                ButtChange.Visible = true;
-            }
-
         }
 
-        private void TxtBoxPlayer1_Click(object sender, EventArgs e)
+        private void ButtNewPlayer_Click(object sender, EventArgs e)
         {
-            TxtBoxPlayer1.Text = "";
-        }
+            Player p1 = new Player();
+            PlayerForm create = new PlayerForm();
+            if (create.ShowDialog() == DialogResult.OK)
+            {
+                p1 = new Player(create.MaxAttack, create.MinAttack, create.Deff, create.PlayerName);
+            }
 
-        private void TxtBoxPlayer2_Click(object sender, EventArgs e)
-        {
-            TxtBoxPlayer2.Text = "";
+            ComBoxPlayer1.Items.Add(p1);
+            ComBoxPlayer1.Items.Add(p1);
         }
     }
 }
