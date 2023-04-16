@@ -1,0 +1,60 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\bin\Debug\net6.0-windows\Funkce.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\bin\Debug\net6.0-windows\Funkce.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\bin\Debug\net6.0-windows\Funkce.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\bin\Debug\net6.0-windows\Funkce.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\bin\Debug\net6.0-windows\Funkce.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\refint\Funkce.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\ref\Funkce.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce2.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce3.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce4.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce5.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce6.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce7.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce8.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce9.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FunkceForm10.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce12.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce13.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce11.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\bin\Debug\net6.0-windows\Funkce.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\bin\Debug\net6.0-windows\Funkce.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\bin\Debug\net6.0-windows\Funkce.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\bin\Debug\net6.0-windows\Funkce.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\bin\Debug\net6.0-windows\Funkce.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce11.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce12.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce13.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce2.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce3.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce4.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce5.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce6.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce7.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce8.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FormFunkce9.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.FunkceForm10.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\refint\Funkce.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\Funkce.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Funkce (HOTOVO)\Funkce\obj\Debug\net6.0-windows\ref\Funkce.dll

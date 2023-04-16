@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFunkce9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FunkceForm10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

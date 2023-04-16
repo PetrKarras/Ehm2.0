@@ -1,0 +1,34 @@
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\bin\Debug\net6.0-windows\FullYear.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\bin\Debug\net6.0-windows\FullYear.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\bin\Debug\net6.0-windows\FullYear.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\bin\Debug\net6.0-windows\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\bin\Debug\net6.0-windows\FullYear.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\refint\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\FullYear.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullYear\FullYear\obj\Debug\net6.0-windows\ref\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\bin\Debug\net6.0-windows\FullYear.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\bin\Debug\net6.0-windows\FullYear.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\bin\Debug\net6.0-windows\FullYear.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\bin\Debug\net6.0-windows\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\bin\Debug\net6.0-windows\FullYear.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\refint\FullYear.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\FullYear.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\FullGymYear (Hotovo)\FullYear\obj\Debug\net6.0-windows\ref\FullYear.dll

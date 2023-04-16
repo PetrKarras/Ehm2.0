@@ -1,0 +1,51 @@
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.exe
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.deps.json
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.runtimeconfig.json
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.dll
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.pdb
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.AssemblyReference.cache
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\_05_KnihaJizd.Form1.resources
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.GenerateResource.cache
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.GeneratedMSBuildEditorConfig.editorconfig
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfoInputs.cache
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfo.cs
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.CoreCompileInputs.cache
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.dll
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\refint\05_KnihaJizd.dll
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.pdb
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.genruntimeconfig.cache
+P:\Vyuka\Repo\hradebni\2022-2023\T3A\05_KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\ref\05_KnihaJizd.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\_05_KnihaJizd.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\refint\05_KnihaJizd.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\ref\05_KnihaJizd.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\bin\Debug\net6.0-windows\05_KnihaJizd.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\_05_KnihaJizd.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\refint\05_KnihaJizd.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\05_KnihaJizd.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\KnihaJizd\05_KnihaJizd\obj\Debug\net6.0-windows\ref\05_KnihaJizd.dll

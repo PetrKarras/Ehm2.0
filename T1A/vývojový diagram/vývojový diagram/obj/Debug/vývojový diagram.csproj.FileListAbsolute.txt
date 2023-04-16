@@ -1,6 +1,0 @@
-P:\PGM\vývojový diagram\vývojový diagram\bin\Debug\vývojový diagram.exe.config
-P:\PGM\vývojový diagram\vývojový diagram\obj\Debug\vývojový diagram.csprojResolveAssemblyReference.cache
-P:\PGM\vývojový diagram\vývojový diagram\bin\Debug\vývojový diagram.exe
-P:\PGM\vývojový diagram\vývojový diagram\bin\Debug\vývojový diagram.pdb
-P:\PGM\vývojový diagram\vývojový diagram\obj\Debug\vývojový diagram.exe
-P:\PGM\vývojový diagram\vývojový diagram\obj\Debug\vývojový diagram.pdb

@@ -1,0 +1,61 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\refint\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\ref\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\refint\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel\CatFishModel\obj\Debug\net6.0-windows\ref\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\bin\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\refint\CatFishModel.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\ref\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\refint\CatFishModel.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\CatFishModel (HOTOVO)\CatFishModel\obj\Debug\net6.0-windows\CatFishModel.pdb

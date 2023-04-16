@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0X3q6loW8sye00RaTryB5MihI5kuX6MXwItmR0hs05gtVKAz6DriKmiRdxoMpblqMFVV7U+jVGP20pGaU9ZkyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakování list (HOTOVO)\\Opakování list\\Opakování list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

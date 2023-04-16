@@ -1,0 +1,17 @@
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\bin\Debug\net6.0-windows\XX_11_StopWatch.exe
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\bin\Debug\net6.0-windows\XX_11_StopWatch.deps.json
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\bin\Debug\net6.0-windows\XX_11_StopWatch.runtimeconfig.json
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\bin\Debug\net6.0-windows\XX_11_StopWatch.dll
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\bin\Debug\net6.0-windows\XX_11_StopWatch.pdb
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.csproj.AssemblyReference.cache
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.Form1.resources
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.csproj.GenerateResource.cache
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.AssemblyInfoInputs.cache
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.AssemblyInfo.cs
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.dll
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\refint\XX_11_StopWatch.dll
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.pdb
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\XX_11_StopWatch.genruntimeconfig.cache
+C:\Users\ta2009\source\repos\PGM_DEMO\PetrKarras_11_StopWatch\XX_11_StopWatch\obj\Debug\net6.0-windows\ref\XX_11_StopWatch.dll

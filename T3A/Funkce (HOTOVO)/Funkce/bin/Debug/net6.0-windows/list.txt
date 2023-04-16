@@ -1,0 +1,33 @@
+Hlavièky funkcí – pracovní list
+V následujícím cvièení si vyzkoušíme implementaci nenároèných funkcí spoleènì s deklaracemi 
+hlavièek tìchto funkcí.
+Zadání
+Z repositáøe pøípadnì ve složce studijních materiálù si stáhnete šablonu, kterou budete dokonèovat.
+Všechny funkce budou volatelné z hlavní Main funkce. Pokud víte, jak si nechat jednotlivé funkce 
+vygenerovat Visual Studiem je to pro vás bonus a ulehèení práce. V opaèném pøípadì si je musíte 
+napsat sami. Funkce mùžete implementovat v libovolném poøadí. V hlavní funkcí je nachystaný 
+zakomentovaný kód pro jednotlivé funkce pro ovìøení funkènosti vaší implementace.
+Pro prvních pìt z vás, kteøí budou mít správnì definováno a naimplementováno libovolných 5 funkcí, 
+èeká odmìna v podobì známky s váhou 3. Elegantní a chytrá øešení budou i když nebudou mezi 
+prvními pìti budou hodnocena aktivitou v hodinì.
+Seznam funkcí k implementaci
+1) Privátní funkce, která vrátí pole seøazených hodnot. Funkce pøijímá 3 celá èísla, která budou 
+seøazena.
+2) Chránìná funkce, která vrátí nejvyšší èíslo ze ètyø naètených.
+3) Veøejná funkce, která vrátí hráèovu novou pøezdívku. Pøezdívka je tvoøena z naèteného jména 
+a roku narození (napø.: Pepa_2021)
+4) Veøejná funkce, která vrátí námi vytvoøenou strukturu Osoba. U osoby zadáváme jméno, 
+pøíjmení a plat.
+5) Privátní funkce, která vrátí pole hodnot, které naèteme rovnìž jako pole. Hodnoty v poli, 
+které vracíme jsou zmenšené o jedna
+6) Veøejná funkce, která pouze vypíše na obrazovku pozdrav uživatele, jehož jméno získáme 
+jako parametr pøi volání funkce
+7) Veøejná funkce, která vrátí prùmìr ze ètyø celoèíselných hodnot.
+8) Chránìná funkce, která urèí, zda je zbytek po dìlení dvou èísel roven nule
+9) Privátní funkce urèující sumu dvou celoèíselných hodnot
+10) Veøejnì pøístupná funkce rozhodující, zda celoèíselná hodnota je dìlitelná èíslem 7
+11) Veøejné funkce, která vrátí poèet výskytù znaku, který je funkci pøedán spoleènì s øetìzcem, 
+ve kterém je znak vyhledáván.
+12) Veøejná funkce, která rozhodne, zda délky stran trojúhelníku, které funkce pøejímá jako 
+parametry, skuteènì mohou tvoøit trojúhelník
+13) Veøejnì pøístupné funkce, která z naèteného pole èísel vrátí aritmetický prùmìr hodnot v poli

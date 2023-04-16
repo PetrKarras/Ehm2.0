@@ -1,0 +1,17 @@
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\bin\Debug\net6.0-windows\20) Viditelné spektrum.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\bin\Debug\net6.0-windows\20) Viditelné spektrum.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\bin\Debug\net6.0-windows\20) Viditelné spektrum.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\bin\Debug\net6.0-windows\20) Viditelné spektrum.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\bin\Debug\net6.0-windows\20) Viditelné spektrum.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\_20__Viditelné_spektrum.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\refint\20) Viditelné spektrum.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\20) Viditelné spektrum.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\20) Viditelné spektrum\20) Viditelné spektrum\obj\Debug\net6.0-windows\ref\20) Viditelné spektrum.dll

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\LYNX\\.nuget\\packages\\": {}
+    "C:\\Users\\ta2009\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\Opakovaní pole.csproj",
+      "projectUniqueName": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\Opakovaní pole.csproj",
       "projectName": "Opakovaní pole",
-      "projectPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\Opakovaní pole.csproj",
-      "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\obj\\",
+      "projectPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\Opakovaní pole.csproj",
+      "packagesPath": "C:\\Users\\ta2009\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T3A\\Opakovaní pole (HOTOVO)\\Opakovaní pole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ta2009\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.30, 3.1.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -64,7 +82,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

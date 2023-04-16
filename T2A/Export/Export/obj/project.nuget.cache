@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x+JMW5U3hjRQO9FK0QRpcIbf5mGEGW9mQCD526viNgdZID2S8rLW77orKQIzjMyDMltcTLOXkQz+TlPq/wih+g==",
+  "dgSpecHash": "u1+XeYoa/sdBMaCVOcCzHh9DICNG2ZKq5PoxAVVeJ0qUWAy7q0cIvPa3HKHyc1+pZAxYRdE0MtG7TDDG3Fmr7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LYNX\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ta2009\\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\\PGM\\T2A\\Export\\Export\\Export.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ta2009\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

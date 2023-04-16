@@ -1,0 +1,51 @@
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza_souboru.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\refint\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\ref\Analýza souboru.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza_souboru.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\refint\Analýza souboru.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru\Analýza souboru\obj\Debug\net6.0-windows\ref\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.exe
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.deps.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.runtimeconfig.json
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\bin\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.AssemblyReference.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza_souboru.Form1.resources
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.GenerateResource.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfoInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.AssemblyInfo.cs
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.csproj.CoreCompileInputs.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\refint\Analýza souboru.dll
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.pdb
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\Analýza souboru.genruntimeconfig.cache
+C:\Users\ta2009\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\T3A\Analýza souboru (HOTOVO)\Analýza souboru\obj\Debug\net6.0-windows\ref\Analýza souboru.dll

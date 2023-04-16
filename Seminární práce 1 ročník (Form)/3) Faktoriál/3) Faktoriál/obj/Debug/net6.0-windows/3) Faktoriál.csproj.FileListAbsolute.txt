@@ -1,0 +1,17 @@
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\bin\Debug\net6.0-windows\3) Faktoriál.exe
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\bin\Debug\net6.0-windows\3) Faktoriál.deps.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\bin\Debug\net6.0-windows\3) Faktoriál.runtimeconfig.json
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\bin\Debug\net6.0-windows\3) Faktoriál.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\bin\Debug\net6.0-windows\3) Faktoriál.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.csproj.AssemblyReference.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\_3__Faktoriál.Form1.resources
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.csproj.GenerateResource.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.AssemblyInfoInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.AssemblyInfo.cs
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.csproj.CoreCompileInputs.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\refint\3) Faktoriál.dll
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.pdb
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\3) Faktoriál.genruntimeconfig.cache
+C:\Users\LYNX\OneDrive - SPŠ, SOŠ a SOU, Hradec Králové\PGM\Seminární práce 1 ročník (Form)\3) Faktoriál\3) Faktoriál\obj\Debug\net6.0-windows\ref\3) Faktoriál.dll

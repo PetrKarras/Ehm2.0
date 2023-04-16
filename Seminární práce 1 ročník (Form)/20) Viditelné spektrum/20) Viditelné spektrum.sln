@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20) Viditelné spektrum", "20) Viditelné spektrum\20) Viditelné spektrum.csproj", "{CC7D7A94-B58A-4B15-BFA5-2B39F80E978A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7D7A94-B58A-4B15-BFA5-2B39F80E978A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7D7A94-B58A-4B15-BFA5-2B39F80E978A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7D7A94-B58A-4B15-BFA5-2B39F80E978A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7D7A94-B58A-4B15-BFA5-2B39F80E978A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF20D840-8A5F-49D7-85AB-02287F4990F8}
+	EndGlobalSection
+EndGlobal
